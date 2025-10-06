@@ -1,0 +1,19 @@
+# Virtual environments & IDE metadata
+.venv/
+.idea/
+
+# Local data & notebooks
+*.ipynb
+*.pbix
+*.geojson
+
+
+# CSVs, analysis output
+*.csv
+
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# ignore google cloud service key
+flu-project-473220-5701c125fe98.json

@@ -1,0 +1,10 @@
+{"region_id": 1, "states": ["CT", "ME", "MA", "NH", "RI", "VT"]}
+{"region_id": 2, "states": ["NJ", "NY"]}
+{"region_id": 3, "states": ["DE", "MD", "PA", "VA", "WV"]}
+{"region_id": 4, "states": ["AL", "FL", "GA", "KY", "MS", "NC", "SC", "TN"]}
+{"region_id": 5, "states": ["IL", "IN", "MI", "MN", "OH", "WI"]}
+{"region_id": 6, "states": ["AR", "LA", "NM", "OK", "TX"]}
+{"region_id": 7, "states": ["IA", "KS", "MO", "NE"]}
+{"region_id": 8, "states": ["CO", "MT", "ND", "SD", "UT", "WY"]}
+{"region_id": 9, "states": ["AZ", "CA", "HI", "NV"]}
+{"region_id": 10, "states": ["AK", "ID", "OR", "WA"]}

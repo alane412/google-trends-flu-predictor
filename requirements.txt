@@ -1,0 +1,27 @@
+# Core
+pandas
+numpy
+requests
+
+# Visualization / analysis (optional if just doing backend)
+matplotlib
+seaborn
+
+# Google Cloud
+google-cloud-bigquery
+google-cloud-storage
+
+# CDC Epidata API
+delphi-epidata
+epiweeks
+
+# API / backend
+flask
+flask-cors
+pytrends
+
+# Deployment
+gunicorn
+
+
+

@@ -26,6 +26,6 @@ The goal is to visualize and model how public search behavior aligns with — or
 - **CDC FluView API**
   - Weekly influenza-like illness (ILI) by region and season
   - https://www.cdc.gov/flu/weekly/fluviewinteractive.htm
-- Google Trends (via Pytrends)
+- **Google Trends (via Pytrends)**
   - Weekly search interest for influenza-related terms
-  - Pytrends is a Python library that serves as an unofficial API for Google Trends, allowing automated retrieval of serach interest data directly from Google. It simulates user intereactions with the Google Trends web interface, enabling queries for specific keywords, time ranges, and regions, and returns normalized serach-volumne data.
+  - Pytrends is a Python library that serves as an unofficial API for Google Trends, allowing automated retrieval of serach interest data directly from Google. It simulates user intereactions with the Google Trends web interface, enabling queries for specific keywords, time ranges, and regions, and returns normalized serach-volumne data (https://pypi.org/project/pytrends/).

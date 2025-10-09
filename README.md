@@ -6,6 +6,8 @@ The dashboard integrates CDC FluView surveillance data (ILI/WILI rates) with Goo
 
 The goal is to visualize and model how public search behavior aligns with — or potentially anticipates — official surveillance signals of flu activity.
 
+**Download the *dashboard.pbix* file and open with Power BI Desktop to explore this dashboard!** 
+
 ![Dashboard Demo](dashboard_demo.gif)
 
 ## Analysis

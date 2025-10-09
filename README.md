@@ -23,7 +23,7 @@ The goal is to visualize and model how public search behavior aligns with — or
 
 -  **Power BI**: Interactive dashboard for time-series visualization and regional comparisons
 ## Data Sources
--  **CDC FluView API**
+- **CDC FluView API**
   - Weekly influenza-like illness (ILI) by region and season
   - https://www.cdc.gov/flu/weekly/fluviewinteractive.htm
 - Google Trends (via Pytrends)
